@@ -1,5 +1,5 @@
 clear
-echo "\033[34;1m Selamat Datang di Tool Mr.Rv1.1"
+echo "\033[34;1m Selamat Datang di Tool CyberDdos"
 sleep 1
 echo "\033[35;1m Anda disini dapat menginstall berbagai tools" | lolcat
 sleep 1
@@ -51,7 +51,7 @@ echo "[40] Install ngrok"
 
 echo "\033[35;1m Silahkan pilih yang mau anda install"
 
-read -p "#Mr.R ~>#" pilihan
+read -p "#Mr.Ddos ~>#" pilihan
 
 
 if [ $pilihan = "01" ] || [ $pilihan = "1" ]
